@@ -1,4 +1,5 @@
 # ArtisanCalculator
+![localhost_4200_(iPhone XR)](https://user-images.githubusercontent.com/82245725/207034772-8858c98f-8b6b-4fcb-a209-aafbd1a5d35d.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
